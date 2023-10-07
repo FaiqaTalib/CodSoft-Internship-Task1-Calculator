@@ -1,5 +1,5 @@
 # calculator
-![Calculator Screenshot](calculator\Capture.PNG)
+
 ## Description
 
 This is a simple calculator application built using Python and the Tkinter library. It provides basic arithmetic operations such as addition, subtraction, multiplication,root and division.
