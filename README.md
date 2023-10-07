@@ -1,5 +1,5 @@
 # calculator
-![Calculator Screenshot](Capture.png)
+![Calculator Screenshot](calculator\Capture.PNG)
 
 ## Description
 
@@ -13,8 +13,10 @@ This is a simple calculator application built using Python and the Tkinter libra
 - Division
 - Root
 
-Usage
-Enter numbers and perform calculations by clicking the buttons.
-Click the "C" button to clear the input field.
-Click the "=" button to calculate the result.
+## Usage
+
+* Enter numbers and perform calculations by clicking the buttons.
+* Click the "C" button to clear the input field.
+* Click the "=" button to calculate the result.
+
 Enjoy using the calculator!
